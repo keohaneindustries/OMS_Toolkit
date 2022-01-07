@@ -53,7 +53,7 @@ setup(name="",
           "squarify==0.4.2",
           "elasticsearch>=5.0.0,<6.0.0",
           "jinja2",
-          "cvxopt==1.2.2",
+          "cvxopt==1.2.7",
           "statsmodels==0.10.1",
       ],
       extras_require={
